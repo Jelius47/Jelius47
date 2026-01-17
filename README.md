@@ -59,14 +59,15 @@
   </tr>
 </table>
 
+
 ### GitHub Stats – Level Up 🔥
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jelius47&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Jelius%20Stats" width="420"/>
+      <img src="https://gh-stats-gen.vercel.app/api?username=Jelius47&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Jelius%20Stats" width="420"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelius47&layout=compact&theme=radical&hide_border=true&hide=html,css,plsql,ejs&langs_count=10" width="420"/>
+      <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=Jelius47&layout=compact&theme=radical&hide_border=true&hide=html,css,plsql,ejs&langs_count=10" width="420"/>
     </td>
   </tr>
   <tr>
@@ -75,7 +76,6 @@
     </td>
   </tr>
 </table>
-
 <blockquote align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </blockquote>
