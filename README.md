@@ -136,7 +136,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
     </tr>
 </table>
 <!-- A resume of my stats -->
-<table cellpadding="10" border="0" width="100%" align="center" >
+<!-- <table cellpadding="10" border="0" width="100%" align="center" >
   <!-- First Row: GIF spanning full width -->
 <!-- <tr>
     <td colspan="2" align="center">
@@ -144,13 +144,13 @@ Love interacting with the community, sharing knowledge, and learning new things.
     </td>
   </tr> -->
   <!-- Second Row: GitHub Stats & Top Languages sharing the row equally -->
-  <tr>
+  <!-- <tr>
     <td width="50%" align="center">
       <img width="400" src="https://github-readme-stats.vercel.app/api?username=Jelius47&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
     </td>
     <td width="50%" align="center">
       <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelius47&count_private=true&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html,css,plsql,ejs&custom_title=Top%20Languages" alt="briso :: Top Langs" />
     </td>
-  </tr>
-</table>
+  </tr> -->
+<!-- </table> --> -->
  
