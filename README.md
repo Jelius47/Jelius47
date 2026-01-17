@@ -152,5 +152,5 @@ Love interacting with the community, sharing knowledge, and learning new things.
       <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelius47&count_private=true&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html,css,plsql,ejs&custom_title=Top%20Languages" alt="briso :: Top Langs" />
     </td>
   </tr> -->
-<!-- </table> --> -->
+<!-- </table> --> 
  
