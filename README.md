@@ -18,11 +18,9 @@
 </p>
 
 <!-- Visitors -->
-<p align="center"><b>Profile Visits</b></p>
 <p align="center">
-  <img src="https://visitorbadge.io/api?id=Jelius47&label=Views&pretty=true&style=flat&color=0e75b6&logo=eye" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJelius47&count_bg=%2300FF00&title_bg=%23555555&icon=eye&logo_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Hits" />
 </p>
-
 <!-- Right GIF -->
 <img align="right" alt="Coding" src="pew.gif" width="380" />
 
