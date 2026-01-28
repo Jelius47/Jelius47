@@ -18,13 +18,20 @@
 <p align="center"><img align="center" src="https://img.shields.io/github/visitors/Jelius47" /></p>
 </div>
 <img align="right" alt="Jelius H." src="pew.gif" width="350" />
+### 👋 About Me
+
 Love interacting with the community, sharing knowledge, and learning new things.
-**Talking about personal stuff:**
-- 👨 I’m Jelius Heneriko (jelius)
-- 😄 Pronouns: he/him/his.
-- 📧 How to reach me: jeliusheneriko47@gmail.com
-  #### **Nice to know you, <a href="https://my-portfolio-jelius.onrender.com" taregt="_blank" title="my portfolio">My potfolio</a>**
-### My dev tools 🫰
+
+### 👤 Personal Info
+- **Name:** Jelius Heneriko (jelius)
+- **Pronouns:** he / him / his
+- **Email:** jeliusheneriko47@gmail.com
+
+### 🌐 Portfolio
+Nice to know you — check out my work here:  
+👉 [My Portfolio](https://my-portfolio-jelius.onrender.com)
+
+---
 <table align="center" cellpadding="10">
     <!-- First Row: Languages -->
     <tr>
