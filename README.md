@@ -14,7 +14,7 @@
 </br>
 <div align="center">
 <br>
-<p align="centre"><b>Visitors Count</b></p>
+
 <p align="center"><img align="center" src="https://img.shields.io/github/visitors/Jelius47" /></p>
 </div>
 <img align="right" alt="Jelius H." src="pew.gif" width="350" />
